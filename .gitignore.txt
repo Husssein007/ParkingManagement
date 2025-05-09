@@ -1,0 +1,11 @@
+# --- FRONTEND (ParkingManagement) ---
+ParkingManagement/node_modules/
+ParkingManagement/dist/
+ParkingManagement/.env
+
+# --- BACKEND (ParkingManagement.API) ---
+ParkingManagement.API/bin/
+ParkingManagement.API/obj/
+ParkingManagement.API/.vs/
+ParkingManagement.API/*.user
+ParkingManagement.API/*.suo
